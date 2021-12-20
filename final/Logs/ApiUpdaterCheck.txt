@@ -1,0 +1,20 @@
+[api-updater (non-obsolete-error-filter)] 12/21/2021 2:33:50 AM : Starting G:/aljon/2020.3.21f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 712.0062ms
+moved types parse time: 66ms
+candidates parse time : 1ms
+C# parse time         : 568ms
+candidates check time : 34ms
+console write time    : 21ms
+
+[api-updater (non-obsolete-error-filter)] 12/21/2021 3:07:49 AM : Starting G:/aljon/2020.3.21f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 274.3659ms
+moved types parse time: 56ms
+candidates parse time : 1ms
+C# parse time         : 248ms
+candidates check time : 30ms
+console write time    : 0ms
+
